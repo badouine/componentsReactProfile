@@ -5,7 +5,7 @@ import '../../App.css';
 
 const Address = () => {
 
-    return <p><em>Santa Clara, California</em></p>
+    return <p><em>Nord Foire, Dakar</em></p>
 };
 
 export default Address;

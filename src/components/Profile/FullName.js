@@ -4,7 +4,7 @@ import '../../App.css';
 
 
 const FullName = () => {
-    return <h2>Sensational</h2>
+    return <h2>Badara Nzale</h2>
 }
 
 export default FullName;
